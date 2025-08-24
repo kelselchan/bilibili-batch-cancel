@@ -5,6 +5,7 @@
 // @description  打印作品名+批量取消追番，手动翻页，悬浮窗口显示作品名，可拖拽、复制、下载TXT，操作提示
 // @match        https://space.bilibili.com/*/bangumi*
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 (function() {
